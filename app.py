@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("Hello PyconZA 2024 !")
+st.title("Hello PyconZA 2024 - Streamlit!")
